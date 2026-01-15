@@ -1,0 +1,34 @@
+# Environment variables containing secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Media files
+media/
+staticfiles/
+
+# Temporary files
+*.tmp
+*.temp
