@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Environment files
+.env
+# Django
+*.log
+db.sqlite3
+media/
+
+# VSCode / IDE
+.vscode/
+.idea/
+CLAUDE.md
+# Docker
+postgres_data/
+mysql_data/
+celerybeat-schedule
